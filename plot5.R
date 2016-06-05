@@ -1,4 +1,4 @@
-# Exploratory Data Analysis - Project 2 - Q. #3
+# Exploratory Data Analysis - Project 2 - Q. #5
 # Aravindan June 2016
 
 # Load ggplot2 library
